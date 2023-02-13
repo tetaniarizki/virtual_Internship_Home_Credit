@@ -1,2 +1,1 @@
-# virtual_Internship_Home_Credit
-SQL 
+Virtual internshhip in Home Credit by Rakamin Academy
